@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Am olamide
+A web developer and a programmer
